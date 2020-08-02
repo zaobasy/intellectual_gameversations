@@ -1,2 +1,2 @@
 language = "python3"
-run = "python main.py"
+run = "python starter_project/run_tic_tac_toe.py"
